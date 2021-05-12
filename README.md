@@ -1,4 +1,4 @@
-# Clon de Twitter usando NextJS por @midudev
+# Twitter Copy by NextJS | @amcarvajal
 
 ## Empezar a desarrollar
 
